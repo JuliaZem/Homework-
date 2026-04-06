@@ -1,0 +1,62 @@
+body {
+background-color: rgb(211, 193, 211);
+}
+
+h1 {
+    color: rgb(132, 0, 0);
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+    margin-bottom: 25px;
+    line-height: 1.8;
+    text-indent: 30px;
+}
+.bordeaux{
+    color: black;
+    font-size: 18px;
+   line-height: 1.8;
+}
+
+.container{
+     background: rgb(211, 193, 211);
+     padding: 30px;
+     border-radius: 12px;
+     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+     width: 100%;
+     max-width: 400px;
+     text-align: center;
+     margin: 100px;
+ }
+.content{
+     background: rgb(211, 193, 211);
+     padding: 30px;
+     border-radius: 12px;
+     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+     width: 100%;
+     max-width: 400px;
+     text-align: center;
+     margin: 100px;
+ }
+ #merlo{
+    background: rgb(109, 0, 62);
+    color: white;
+ }
+.riesling{
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         flex-wrap: wrap;
+        gap: 60px;
+        margin-bottom: 30px;
+}
+
+.riesling img {
+         width: 290px;
+        height: 210px;
+         }
+
+
+
